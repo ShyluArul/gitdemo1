@@ -1,4 +1,4 @@
-public class FibonacciQ1 {
+public class fib{
 
 	public static void main(String[] args) {
 		System.out.println("fibonacci");
